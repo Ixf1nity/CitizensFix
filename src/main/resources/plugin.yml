@@ -1,0 +1,4 @@
+name: CitizensNPCDespawnFix
+version: '${project.version}'
+main: me.infinity.citizensfix.CitizensFix
+depend: [ Citizens ]
